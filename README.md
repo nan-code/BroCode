@@ -1,5 +1,5 @@
-# BroCode
-Code for Bros
+# Teaching
+Code to help teach
 
 
 React project utilizing
